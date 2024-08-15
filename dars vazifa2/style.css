@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+.header{
+    height: 10vh;
+    width: 100%;
+    background-color: aquamarine;
+    color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.section{
+    width: 70vw;
+    background-color: aqua;
+    padding: 15px;
+}
+
+.container{
+    display: flex;
+    height: 80vh;
+}
+
+.nav{
+    width: 30vw;
+    background-color: bisque;
+    padding: 15px;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+ul a{
+    text-decoration: none;
+}
+
+.footer{
+    height: 10vh;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    display: flex
+}
